@@ -1,6 +1,6 @@
 numpy
 opnecv-python
 tensorflow==2.15.1
-tf-models-official
+tf-models-official==2.15
 scipy
 pillow
