@@ -1,5 +1,6 @@
 # PTGE
 Personal Transformer-Based Gaze Estimation
+### Implementation of the paper http://jcse.kiise.org/files/V17N2-01.pdf
 ### Requirements
 tensorflow==2.15.1
 tf-models-official==2.15
